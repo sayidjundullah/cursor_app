@@ -1,24 +1,21 @@
-cara menjalankan: 
+##cara menjalankan: 
 
-## buat python environtment
+### buat python environtment
 
 ```
 python -m venv venv
-
 ```
 
-## menggunakan python env
+### menggunakan python env
 
 ```
 .\venv\Scripts\activate
-
 ```
 
-## install dependensi
+### install dependensi
 
 ```
 pip install opencv-python mediapipe pynput tk
-
 ```
 
 
