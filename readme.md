@@ -1,25 +1,22 @@
 ## cara menjalankan: 
 
-### buat python environtment
-
+#### 1. buat python environtment
 ```
 python -m venv venv
 ```
-
-### pake python env
-
+#### 2. pake python env
 ```
 .\venv\Scripts\activate
 ```
-
-### install dependensi
-
+#### 3. install dependensi
+```
+pip install requirements.txt
+```
+atau
 ```
 pip install opencv-python mediapipe pynput tk
 ```
-
-### run 
-
+#### 4. run app 
 ```
 python -m app.py
 ```
